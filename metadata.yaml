@@ -1,11 +1,16 @@
 _repo: The-Book-of-Town-Window-Gardening_57251
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57251-h/images/cover.jpg
 creator:
   author:
     agent_name: Bardswell, Mrs F. A.
     gutenberg_agent_id: '49274'
     url: http://www.gutenberg.org/2009/agents/49274
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57251#The-Book-of-Town-Window-Gardening
 gutenberg_issued: '2018-06-02'
 gutenberg_type: Text
 identifiers:
